@@ -1,0 +1,12 @@
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.exe
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.deps.json
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.runtimeconfig.json
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.runtimeconfig.dev.json
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.dll
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.pdb
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.AssemblyInfoInputs.cache
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.AssemblyInfo.cs
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.csproj.CoreCompileInputs.cache
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.dll
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.pdb
+E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.genruntimeconfig.cache
