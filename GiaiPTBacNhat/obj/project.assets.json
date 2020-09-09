@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BT C#\\GiaiPTBacNhat\\GiaiPTBacNhat\\GiaiPTBacNhat.csproj",
+      "projectUniqueName": "E:\\C#\\Giai-pt-bac-nhat\\GiaiPTBacNhat\\GiaiPTBacNhat.csproj",
       "projectName": "GiaiPTBacNhat",
-      "projectPath": "E:\\BT C#\\GiaiPTBacNhat\\GiaiPTBacNhat\\GiaiPTBacNhat.csproj",
+      "projectPath": "E:\\C#\\Giai-pt-bac-nhat\\GiaiPTBacNhat\\GiaiPTBacNhat.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\BT C#\\GiaiPTBacNhat\\GiaiPTBacNhat\\obj\\",
+      "outputPath": "E:\\C#\\Giai-pt-bac-nhat\\GiaiPTBacNhat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

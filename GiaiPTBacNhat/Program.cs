@@ -12,6 +12,10 @@ namespace GiaiPTBacNhat
             double a = Convert.ToDouble(Console.ReadLine());
             Console.Write("b: ");
             double b = Convert.ToDouble(Console.ReadLine());
+            giaiPT(a,b);
+        }
+        static double giaiPT(double a, double b)
+        {
             if (a != 0)
             {
                 double solution = -b / a;
@@ -28,6 +32,7 @@ namespace GiaiPTBacNhat
                     Console.Write("PT vo nghiem !");
                 }
             }
+            return 0;
         }
     }
 }

@@ -10,3 +10,16 @@ E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.cspro
 E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.dll
 E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.pdb
 E:\BT C#\GiaiPTBacNhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.genruntimeconfig.cache
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.exe
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.deps.json
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.runtimeconfig.json
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.runtimeconfig.dev.json
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.dll
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\bin\Debug\netcoreapp3.1\GiaiPTBacNhat.pdb
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.csprojAssemblyReference.cache
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.AssemblyInfoInputs.cache
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.AssemblyInfo.cs
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.csproj.CoreCompileInputs.cache
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.dll
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.pdb
+E:\C#\Giai-pt-bac-nhat\GiaiPTBacNhat\obj\Debug\netcoreapp3.1\GiaiPTBacNhat.genruntimeconfig.cache
